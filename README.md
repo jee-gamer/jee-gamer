@@ -1,4 +1,12 @@
 ## Hi there 👋
+My name is Jee.
+
+I'm a college student. 
+
+Currently studying in Software and Knowledge Engineering major of Kasetsart University (International)
+
+## Tech Stack
+
 
 <!--
 **jee-gamer/jee-gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
